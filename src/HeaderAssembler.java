@@ -11,7 +11,7 @@ public class HeaderAssembler {
 
     HeaderAssembler() {
         buildHeaderString(readJSON("headers.json"));
-        insertVars("https://www.google.com", "close", "bacon");
+        insertVars("www.discord.com", "close", "bacon");
     }
 
     public JSONObject readJSON(String path) {

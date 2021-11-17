@@ -3,7 +3,7 @@
 
         "HEAD": {
             "protocolVersion: ": "HTTP/1.1",
-            "print": "HEAD XXhostNameXX HTTP/1.1"
+            "print": "GET / HTTP/1.1"
         },
         
         "Host": {
