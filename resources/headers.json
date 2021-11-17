@@ -1,0 +1,25 @@
+{
+    "Headers": {
+
+        "HEAD": {
+            "protocolVersion: ": "HTTP/1.1",
+            "print": "HEAD XXhostNameXX HTTP/1.1"
+        },
+        
+        "Host": {
+            "print": "Host: XXhostNameXX"
+        },
+        "User-Agent": {
+            "print": "User-Agent: XXuserAgentXX"
+        },
+        "Accept": {
+            "print": "Accept: text/html"
+        },
+        "Accept-Language": {
+            "print": "Accept-Language: en-US"
+        },
+        "Connection": {
+            "print": "Connection: XXconnectionTypeXX"
+        }
+    }
+}
